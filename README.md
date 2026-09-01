@@ -2,7 +2,6 @@
 
 Cisco Packet Tracer topology demonstrating a routed HQ-to-Branch network with an ISP transit segment and a DMZ server network.
 
-![HQ-Branch IPsec DMZ topology](topology-screenshot.png)
 
 ## Topology
 
